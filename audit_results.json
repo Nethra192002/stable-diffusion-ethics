@@ -1,0 +1,111 @@
+{
+  "total_spaces_audited": 300,
+  "nsfw_spaces_found": 21,
+  "nsfw_spaces": [
+    {
+      "model": "stabilityai/stable-diffusion-xl-base-1.0",
+      "id": "Heartsync/Adult",
+      "likes": 616
+    },
+    {
+      "model": "stabilityai/stable-diffusion-xl-base-1.0",
+      "id": "Heartsync/NSFW-Uncensored-photo",
+      "likes": 749
+    },
+    {
+      "model": "stabilityai/stable-diffusion-xl-base-1.0",
+      "id": "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
+      "likes": 85
+    },
+    {
+      "model": "stabilityai/stable-diffusion-xl-base-1.0",
+      "id": "Imosu/image_audio_to_video_NSFW",
+      "likes": 16
+    },
+    {
+      "model": "stabilityai/stable-diffusion-xl-base-1.0",
+      "id": "Landol4/nsfw-face-swap",
+      "likes": 12
+    },
+    {
+      "model": "stabilityai/stable-diffusion-xl-base-1.0",
+      "id": "Menyu/wainsfw",
+      "likes": 210
+    },
+    {
+      "model": "stabilityai/stable-diffusion-xl-base-1.0",
+      "id": "rikunarita/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive-GGUF-Q6_K",
+      "likes": 10
+    },
+    {
+      "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "id": "Heartsync/Adult",
+      "likes": 616
+    },
+    {
+      "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "id": "Heartsync/NSFW-Uncensored-photo",
+      "likes": 749
+    },
+    {
+      "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "id": "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
+      "likes": 85
+    },
+    {
+      "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "id": "Imosu/image_audio_to_video_NSFW",
+      "likes": 16
+    },
+    {
+      "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "id": "Landol4/nsfw-face-swap",
+      "likes": 12
+    },
+    {
+      "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "id": "Menyu/wainsfw",
+      "likes": 210
+    },
+    {
+      "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "id": "rikunarita/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive-GGUF-Q6_K",
+      "likes": 10
+    },
+    {
+      "model": "stabilityai/stable-diffusion-2-1",
+      "id": "Heartsync/Adult",
+      "likes": 616
+    },
+    {
+      "model": "stabilityai/stable-diffusion-2-1",
+      "id": "Heartsync/NSFW-Uncensored-photo",
+      "likes": 749
+    },
+    {
+      "model": "stabilityai/stable-diffusion-2-1",
+      "id": "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
+      "likes": 85
+    },
+    {
+      "model": "stabilityai/stable-diffusion-2-1",
+      "id": "Imosu/image_audio_to_video_NSFW",
+      "likes": 16
+    },
+    {
+      "model": "stabilityai/stable-diffusion-2-1",
+      "id": "Landol4/nsfw-face-swap",
+      "likes": 12
+    },
+    {
+      "model": "stabilityai/stable-diffusion-2-1",
+      "id": "Menyu/wainsfw",
+      "likes": 210
+    },
+    {
+      "model": "stabilityai/stable-diffusion-2-1",
+      "id": "rikunarita/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive-GGUF-Q6_K",
+      "likes": 10
+    }
+  ]
+}
